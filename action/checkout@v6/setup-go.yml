@@ -1,6 +1,6 @@
-name: Go
+name: run-go
 
-on: [push]
+on: [push , fork]
 
 jobs:
   build:
